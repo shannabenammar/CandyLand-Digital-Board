@@ -18,7 +18,7 @@ Digital version of the multiplayer CandyLand board game with a few new features.
   </ul>
   <li> Features: </li>
   <ul> 
-    <li> Color card: Tells player what color spot to go to. Randomaly an event card will appear informating the player to select an event card. </li>
+    <li> Color card: Tells player what color spot to go to. Randomly an event card will appear informating the player to select an event card. </li>
     <li> Event card: Randomly selects an event for player to complete. Includes events such as: Move back a space, do jumping jacks, call your mom, and other playful events such as these. </li>  
   </ul>
 </ul> 
